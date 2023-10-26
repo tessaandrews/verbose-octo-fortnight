@@ -5,6 +5,7 @@
   This SVG file generator displays prompts of what color you would like to fill the shape, what text color you would prefer, which shape you would like, and what three letters you would like to display inside of the logo.
 
   ## Table of Contents
+  * [Walkthrough](#walkthrough)
   * [Installation](#installation) 
   * [Usage](#usage) 
    * [License](#license)
@@ -12,6 +13,11 @@
   * [Tests](#test)
   * [Questions](#questions)
   
+  ## Walkthrough
+
+  chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/c612e5de-9f44-49ce-y96d-2f758743a409
+
+
 
   ## Installation
   npm ; jest
